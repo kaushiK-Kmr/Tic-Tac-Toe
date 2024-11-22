@@ -9,4 +9,5 @@ Working of the Game :
 
 The game works on the same principle that is used while playing it on paper and pen. The only way to win is to place three same signs in a straight line, either diagonally or horizontally or vertically. Whoever places them first will be the winner.
 There is no undo option for the players for a fair game.
-For any query or problem, please 
+For any query or problem, please raise an issue or pull request.
+Thank you!
